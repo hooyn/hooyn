@@ -23,5 +23,5 @@
 <hr>
 <h3 align="center">📎 Baekjoon Strick 📎</h3>
 <div align="center">
-  <a href="https://solved.ac/profile/hooyn_industry"><img src="http://mazandi.herokuapp.com/api?handle=hooyn_industry&theme=warm"/>/a>
+  <a href="https://solved.ac/profile/hooyn_industry"><img src="http://mazandi.herokuapp.com/api?handle=hooyn_industry&theme=warm"/>
 </div>
